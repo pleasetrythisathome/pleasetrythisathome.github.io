@@ -13,11 +13,11 @@
     "react": ">=0.9.0",
     "underscore": ">=1.6.0"
   },
-  "_release": "62219aa208",
+  "_release": "98ec3bfb9d",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "62219aa2088a7f0d0b60221e0028bafcda9624a0"
+    "commit": "98ec3bfb9d2742484141c99c0564ee45c426928b"
   },
   "_source": "git://github.com/pleasetrythisathome/react.animate.git",
   "_target": "*",
