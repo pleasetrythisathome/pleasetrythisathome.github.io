@@ -55,14 +55,6 @@ or
 this.animate(key, value [, duration ] [, easing ] [, complete ] );
 ```
 
-Dependencies
-------------
-
-[d3.js](http://d3js.org/) provides a variety of flexible [interpolators](https://github.com/mbostock/d3/wiki/Transitions#d3_interpolate) and [easing functions](https://github.com/mbostock/d3/wiki/Transitions#d3_ease).
-
-[underscore.js](http://underscorejs.org/) provides some functional sugar.
-
-
 Example
 ------------
 
@@ -99,6 +91,9 @@ var component = React.createClass({
 });
 ```
 
+view in [jsfiddle](http://jsfiddle.net/mWAnw/3/)
+
+
 Installation
 ------------
 
@@ -111,3 +106,15 @@ bower install react.animate --save
 which will automatically pull the required React and Underscore dependencies.
 
 to use React.Animate, include it in your page or build process after React and Underscore
+
+Dependencies
+------------
+
+[d3.js](http://d3js.org/) provides a variety of flexible [interpolators](https://github.com/mbostock/d3/wiki/Transitions#d3_interpolate) and [easing functions](https://github.com/mbostock/d3/wiki/Transitions#d3_ease).
+
+[underscore.js](http://underscorejs.org/) provides some functional sugar.
+
+Limitations
+------------
+
+Due to the nature of d3's transition system, starting a new animation on a component will cancel the current running animation. This will change in the future to allow concurrent animation of different properties at different speeds, easing, etc.
