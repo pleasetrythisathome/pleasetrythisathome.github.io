@@ -11,13 +11,14 @@
   "ignore": [],
   "dependencies": {
     "react": ">=0.9.0",
+    "d3": ">=3.4.3",
     "underscore": ">=1.6.0"
   },
-  "_release": "98ec3bfb9d",
+  "_release": "52a83cbd27",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "98ec3bfb9d2742484141c99c0564ee45c426928b"
+    "commit": "52a83cbd27e7fdbb509a9804c711cccdeb7318a5"
   },
   "_source": "git://github.com/pleasetrythisathome/react.animate.git",
   "_target": "*",
