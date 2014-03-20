@@ -1,0 +1,26 @@
+{
+  "name": "react.animate",
+  "main": "react.animate.js",
+  "homepage": "https://github.com/pleasetrythisathome/react.animate",
+  "description": "A small mixin that adds state animation to React components.",
+  "keywords": [
+    "d3",
+    "react"
+  ],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {
+    "react": ">=0.9.0",
+    "underscore": ">=1.6.0"
+  },
+  "_release": "62219aa208",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "62219aa2088a7f0d0b60221e0028bafcda9624a0"
+  },
+  "_source": "git://github.com/pleasetrythisathome/react.animate.git",
+  "_target": "*",
+  "_originalSource": "react.animate",
+  "_direct": true
+}
