@@ -79,7 +79,7 @@ a:visited { color: #1780f0; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 50%;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -148,7 +148,8 @@ a:visited { color: #1780f0; }
 .post pre {
   border: 1px solid #d7d8d9;
   background-color: #ffffff;
-  padding: 0 .4em;
+  padding: 10px;
+  overflow-x: scroll;
 }
 
 .post ul, .post ol {
