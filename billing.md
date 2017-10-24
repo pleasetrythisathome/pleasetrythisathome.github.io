@@ -5,7 +5,7 @@ title: @pleasetrythisathome $$$$
 
 # I build stuff and make things and you can pay me for both!
 
-My rate is $150/hour. I give discounts if you pay me more. Sometimes I work for less on social good projects.
+My rate is $150/hour. I give discounts when we work more together. Sometimes I work for less on social good projects.
 
 I bill at $150/pomodoro, which I consider to be a more accurate unit of work produced. It's 25 minutes of uninterupted work on a specific task, followed by a 5 minute break, away from desk. After experimentation, I've found that I spend about double that time on the rest of work, things like calls, slack, scheduling, project management, review, lunch etc. I therefore equate 1 pomodoro to 1 hour of work.
 
@@ -49,20 +49,18 @@ See above. 8 hours in standard workday, 8 pomodoro cycles. Sometimes more, somet
 
 I give discounts if I do more work for you.
 
-<= 8 hours   / week = $150/hr
-9 - 32 hours / week = $150/hr - 10% = $135/hr
+ <= 8  hours / week = $150/hr
+9 - 40 hours / week = $135/hr (10% discount)
 
-If you’d prefer to bill on a fixed day or week rate, that’s great. I work 4 days a week for other people, and 1 for myself. If you want to schedule days, that’s fine.
+If you’d prefer to bill on a fixed day or week rate, that’s great. 
 
 Day   =  $1,200   (8 hours $150/hr)
-Week  =  $4,320   (4 days - 10%)
+Week  =  $5,400   (5 days - 10% discount)
 
 Hourly billing is due on Net30 Terms.
-Net7 direct Deposit or Wire Transfer - additional 10%;
+Net7 direct Deposit or Wire Transfer - additional 10%. If you have a different way to pay me regularly where I don't have to worry about it, that's probably fine too. 
 
-For example, If you want to employ me full-time (4 days a week), you could pay me biweekly via direct deposit and owe me ($4320/week - 10% for direct deposit) * 2weeks = $7776
-
-I will do the same tracking as below anyway. You’re welcome to make sure you feel like you’re getting the promised amount of time. If something comes up and you feel like you aren’t, tell me and we’ll work it out!
+For example, If you want to employ me full-time, you could pay me biweekly via direct deposit and owe me ($5400/week - 10% for direct deposit) * 2 weeks = $9720 biweekly.
 
 # Time Tracking
 
@@ -75,6 +73,12 @@ I make a done list for each week, and move cards to done as they are completed. 
 Cycles in the done list get totaled, the total gets added to the list title (ie. done (42): DD/MM/YYYY - DD/MM/YYYY).
 
 I go over 25 minutes a lot. This doesn’t get posted. I wish it did. I actually use another timer called [Tadam](http://tadamapp.com) at the same time because it puts a massive gray window over my screen when it goes off. Regardless, I often extend the timer to finish something I’m in the middle of.
+
+# FAQ
+
+# I want you to be online during particular hours
+
+Ok. Let's talk about what you need! Generally I've found this to not be an issue. Collaboration is super important, and I need it too! 
 
 # So Misc is you wasting time?
 
