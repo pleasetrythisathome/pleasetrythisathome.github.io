@@ -9,7 +9,7 @@ title: "@pleasetrythisathome $$$$"
 
 My rate is $150/hour. I give discounts when we work more together. Sometimes I work for less on social good projects.
 
-I bill at $150/pomodoro, which I consider to be a more accurate unit of work produced. It's 25 minutes of uninterupted work on a specific task, followed by a 5 minute break, away from desk. After experimentation, I've found that I spend about double that time on the rest of work, things like calls, slack, scheduling, project management, review, lunch etc. I therefore equate 1 pomodoro to 1 hour of work.
+I bill at $150/pomodoro, which I consider to be a more accurate unit of work produced. It's 25 minutes of uninterrupted work on a specific task, followed by a 5 minute break, away from desk. After experimentation, I've found that I spend about double that time on the rest of work, things like calls, slack, scheduling, project management, review, lunch etc. I therefore equate 1 pomodoro to 1 hour of work.
 
 You can pay me by pomodoros or think of it like hours.
 

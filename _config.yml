@@ -1,3 +1,17 @@
-name: "@pleasetrythisathome"
+title: "@pleasetrythisathome"
 timezone: America/Louisiana/New_Orleans
+email: dbutman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  software, hardware, and heart.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pleasetrythisathome.com" # the base hostname & protocol for your site, e.g. http://example.com
+image: "https://avatars3.githubusercontent.com/u/1894358?s=460&v=4"
+google_analytics: UA-37067141-3
 
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+exclude:
+  - Gemfile
+  - Gemfile.lock

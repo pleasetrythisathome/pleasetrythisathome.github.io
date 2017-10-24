@@ -83,6 +83,10 @@ a:visited { color: #1780f0; }
   line-height: 1.5em;
 }
 
+.header {
+  margin-bottom: 3em;
+}
+
 .header a {
   text-decoration: none;
 }
@@ -90,7 +94,7 @@ a:visited { color: #1780f0; }
 .title {
   font-size: 32px;
   display: inline-block;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .title a:hover {
