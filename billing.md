@@ -9,19 +9,19 @@ title: "@pleasetrythisathome $$$$"
 
 My rate is $150/hour. I give discounts when we work more together. Sometimes I work for less on social good projects.
 
-I bill at $150/pomodoro, which I consider to be a more accurate unit of work produced. It's 25 minutes of uninterrupted work on a specific task, followed by a 5 minute break, away from desk. After experimentation, I've found that I spend about double that time on the rest of work, things like calls, slack, scheduling, project management, review, lunch etc. I therefore equate 1 pomodoro to 1 hour of work.
+I track my time by pomodoro cycles, which I consider to be a more accurate unit of work produced. The following system is an attempt to first figure out how much real work I get done in a standard day, assign a more meaningful unit to it than the hour, and then track that instead of time.
 
-You can pay me by pomodoros or think of it like hours.
-
-Here’s how I work. Skip down to billing if you just want numbers.
+Here’s how I work. 
 
 ## The Pomodoro Technique
 
 The Pomodoro Technique was developed by [Francesco Cirillo](https://caps.ucsd.edu/Downloads/tx_forms/koch/pomodoro_handouts/ThePomodoroTechnique_v1-3.pdf). The gist is to work on a single task without any interruption or distraction for 25 minutes, take 5 minutes off (I prefer to stand up and do something physical like handstands), and repeat for a total of 4 cycles, before taking a 30 minute break. This leads to a full cycle of 2.5 hours.
 
+No distractions means no calls, no slack, no getting coffee, no reddit, no reading articles from co-workers or friends, just working on the task at hand.
+
 ## The Standard Work Day
 
-The standard work day is generally considered to be 8 hours. There seems to be little agreement of what happens when during these 8 hours, but an hour for lunch is considered standard.
+The standard work day is generally considered to be 8 hours. There seems to be little agreement on exactly what happens when during these 8 hours, but an hour for lunch is considered standard.
 
 I define a standard workday under a “normal” 8 hour period as follows.
 
@@ -44,26 +44,30 @@ I have not found that any of the ratios of the above time allocations change wit
 
 1 hour = $150. I sometimes work for less on social good projects, or for close friends. If that’s you, let’s talk!
 
-1 hour billable time = 1 pomodoro.
+8 hours in standard workday, 8 pomodoro cycles. I prefer to bill on work produced, not time spent.
 
-See above. 8 hours in standard workday, 8 pomodoro cycles. Sometimes more, sometimes, less. I prefer to bill on work produced, not time spent.
+1 hour billable time = 1 pomodoro.
 
 I give discounts if I do more work for you.
 
- <=  8 pomodoros / week = $150/pomodoro
-9 - 40 pomodoros / week = $135/pomodoro (10% discount)
+| Pomodoros (week) | Hourly | Discount |
+| ---------------- | ------:| --------:|
+| under 8          |   $150 |          |
+| 8 - 40           |   $135 |      10% |
+
 
 If you’d prefer to bill on a fixed day or week rate, that’s great. 
 
-Day  = $1,200 (8  pomodoros $150/hr)
-Week = $5,400 (40 pomodoros - 10% discount)
-
-If we're on a fixed rate, and something needs to get done, I'll do my best to put in the overtime necessary to get it done, within reason. 
-
 Hourly billing is due on Net30 Terms.
-Net7 direct Deposit or Wire Transfer - additional 10%. If you have a different way to pay me regularly where I don't have to worry about it, that's probably fine too. 
+Net7 direct Deposit (DD) or Wire Transfer - additional 10%. If you have a different way to pay me regularly where I don't have to worry about it, that's probably fine too. 
 
-For example, If you want to employ me full-time, you could pay me biweekly via direct deposit and owe me ($5400/week - 10% for direct deposit) * 2 weeks = $9720 biweekly.
+| Period        | Pomodoros | Cost  | Discount |
+| ------------- | ---------:| -----:| --------:|
+| Day           |         8 | $1200 |          |
+| Week          |        40 | $5400 |      10% |
+| Week          |        40 | $4860 | (DD) 20% |
+
+If we're on a fixed rate, and something needs to get done, I'll do my best to put in the overtime necessary to get it done, within reason. If it makes sense to work more because something is just flowing well, I'll do that too.
 
 ## Time Tracking
 
@@ -102,8 +106,6 @@ This time also accounts for time spent responding to slack and other forms of co
 ## Do you work consistent hours every day?
 
 Sometimes. Sometimes I work in the morning and then again late at night.
-
-This whole system is an attempt to first figure out how much real work I get done in a standard day, assign a more meaningful unit to it than the hour, and then track that instead of time.
 
 Mostly it depends on the needs of my clients. If you have a project that is heavy on collaboration with a team that works 9-5, I can do that. If you don’t, I’d prefer to be more flexible. Sometimes weekends are a great time for work, I do that too.
 
