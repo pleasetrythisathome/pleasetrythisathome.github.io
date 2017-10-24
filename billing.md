@@ -1,6 +1,6 @@
 ---
 layout: default
-title: @pleasetrythisathome $$$$
+title: "@pleasetrythisathome $$$$"
 ---
 
 # I build stuff and make things; you can pay me for both!

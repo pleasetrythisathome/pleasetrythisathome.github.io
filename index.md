@@ -1,6 +1,8 @@
 ---
 layout: default
-title: @pleasetrythisathome
+title: "@pleasetrythisathome bio"
 ---
 
-# I'm Dylan Butman
+# Hey! I'm Dylan Butman.
+
+Integrating art with life. Software, hardware, and heart.
