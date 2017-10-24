@@ -3,7 +3,7 @@ layout: default
 title: "@pleasetrythisathome bio"
 ---
 
-# Hey! I'm Dylan Butman.
+# Hey! I'm Dylan Butman. I build things and make stuff.
 
 I am a programmer, systems and interaction designer, and interactive artist. My work includes a mix of web and native based application ranging in scope for MVP demos for concept-state startups to work on multi-year SAAS products. I specialize in building complex single page web-apps, interactive data visualizations, and creative coding installations. 
 
