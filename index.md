@@ -3,7 +3,7 @@ layout: default
 title: Please, Try This at Home!
 ---
 
-@pleasetrythisathome $$$$$$$$
+$$$$$$$$
 =============================
 
 # I make things and also stuff and you can pay me for both
